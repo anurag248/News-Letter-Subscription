@@ -1,4 +1,4 @@
-# News-Letter-Subscription-
+# News-Letter-Subscription
 
 Deployed on Heroku - > https://serene-oasis-50699.herokuapp.com/
 
